@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gloriabee" alt="gloriabee" /></a> </p>
 
-- 🌱 I’m currently learning **Vue, React**
+- 🌱 I’m currently learning **Vue, React, Python**
 
 - 👨‍💻 All of my projects are available at [https://gloriabee.github.io/Resume-Website/](https://gloriabee.github.io/Resume-Website/)
 
